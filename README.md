@@ -1,4 +1,4 @@
-"""# LAN Discord Clone
+# LAN Texting App
 
 A localized chat application built with Python sockets and a modern Discord-inspired UI using `customtkinter`. It features multi-client real-time messaging and SQLite-based persistent chat history.
 
